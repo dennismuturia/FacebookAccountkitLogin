@@ -3,4 +3,5 @@
     <string name="FACEBOOK_APP_ID">307595986440837</string>
     <string name="ACCOUNT_KIT_CLIENT_TOKEN">cb25f60311a17df9308d671bdb5ad53f</string>
     <string name="login_protocal_scheme">akcb25f60311a17df9308d671bdb5ad53f</string>
+    <string name="title_activity_success_">Success_Activity</string>
 </resources>
