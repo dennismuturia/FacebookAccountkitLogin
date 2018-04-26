@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
             }
             else{
                 Toast.makeText(this, "Success!!", Toast.LENGTH_SHORT).show();
-                startActivity();
+                startActivity(new Intent(this, Success_Activity.class));
             }
         }
     }
